@@ -1,0 +1,8 @@
+# Demo service config
+company: CareBridge Health
+industry: healthcare
+service: phi-consent-service
+risk_controls:
+  - change approval
+  - audit trail
+  - secure code review
